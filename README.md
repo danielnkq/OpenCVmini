@@ -6,4 +6,4 @@ Project description:<br>We found an example https://github.com/opencv/opencv/blo
 ,which is a OpenCV program to detect square. To modify it, we decided to make it detect triangle and rectangle instead.
 
 
-Instruction:<br> Install OpenCV library to our PC.
+Instruction:<br> Install OpenCV library on our PC.
