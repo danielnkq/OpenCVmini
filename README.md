@@ -1,3 +1,9 @@
-# OpenCVmini
-This branch is to add some color detection algorithms in to the shape detection code.
-We set the detection bourdaries first, then search for differnt colors, finally show the images with the color detected color highlighted.
+Homework 1 <br>
+Team Member: Zhang Jiahao, Quartey Daniel, Tang Zhiwei
+--------
+
+Project description:<br>We found an example https://github.com/opencv/opencv/blob/master/samples/python/squares.py
+,which is a OpenCV program to detect square. To modify it, we decided to make it detect triangle and rectangle instead.
+
+
+
