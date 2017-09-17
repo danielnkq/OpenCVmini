@@ -1,8 +1,9 @@
 #!/usr/bin/env python
 
 '''
-Simple "Square Detector" program.
-Loads several images sequentially and tries to find squares in each image.
+This is our first "Square Detector" program for opencv programming in python.
+This program can load several images sequentially and tries to find squares in each image.
+Later on our version of this code will be able to detect several different shapes like pentagon, triangle etc.
 '''
 
 # Python 3 compatibility
