@@ -1,3 +1,4 @@
+
 #!/usr/bin/env python
 
 '''
@@ -36,6 +37,15 @@ def find_squares(img):
                     if max_cos < 0.1:
                         squares.append(cnt)
     return squares
+#define the list of boundaries
+boundaries = [
+    ([17,15,100],[50,56,200]),
+    ([86,31,4],[220,88,50]),
+    ([25,146,190],[62,174,250]),
+    ([103.86,65],[145,133,128])
+]
+#loop over the boundaries, find the different colors
+
 
 if __name__ == '__main__':
     from glob import glob
